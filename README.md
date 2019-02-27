@@ -30,4 +30,4 @@ With a tabbed document interface, PDF export, a built-in image uploader, session
 
 添加一个新功能push
 
-添加一个新功能p
+添加一个新功能pull
