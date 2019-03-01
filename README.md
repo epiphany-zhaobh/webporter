@@ -33,4 +33,8 @@ With a tabbed document interface, PDF export, a built-in image uploader, session
 添加一个新功能pull
 
 测试A分支
+<<<<<<< HEAD
 哈哈
+=======
+A分支又搞事情了
+>>>>>>> A
